@@ -1,0 +1,4 @@
+spring.datasource.url: jdbc:mySql://localhost:3306/chat
+spring.datasource.username: root
+spring.datasource.password: testtest
+spring.jpa.hibernate.ddl-auto: create
